@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "total_results": 1,
+    "total_pages": 1,
+    "results": [
+        {
+            "popularity": 5.219,
+            "id": 628241,
+            "video": false,
+            "vote_count": 24,
+            "vote_average": 6.5,
+            "title": "Ala Vaikunthapurramuloo",
+            "release_date": "2020-01-12",
+            "original_language": "te",
+            "original_title": "అల వైకుంఠపురములో",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "backdrop_path": "\/4oEMOYeQ5jY9rEN85Z9VF6TXYzb.jpg",
+            "adult": false,
+            "overview": "Fate plays a vital role in connecting the life of Bantu, a son who seeks validation from his cold-hearted father with the life of Raj, whose millionaire father wishes that he was more assertive.",
+            "poster_path": "\/48DIQOSEgpoWUFBrmHW2En6aNZQ.jpg"
+        }
+    ]
+}

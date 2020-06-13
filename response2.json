@@ -1,0 +1,26 @@
+{
+    "page": 1,
+    "total_results": 1,
+    "total_pages": 1,
+    "results": [
+        {
+            "popularity": 1.978,
+            "vote_count": 8,
+            "video": false,
+            "poster_path": "\/buQQUkoBTjt3nJftJLh8WqQ5cfX.jpg",
+            "id": 376998,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "te",
+            "original_title": "నేను శైలజ",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "title": "Nenu..Shailaja",
+            "vote_average": 5.1,
+            "overview": "Hari (Ram), a DJ in Vizag, proposes to many girls none of them accept his love. One day he sees a beautiful girl Sailaja (Keerthi Suresh) and also impresses her but doesn't propose to her fearing that he would be rejected. Hari spends some good times with Sailaja and right when he proposes his love, she rejects him point blank. An upset Ravi continues with his life and as time passes by, he gets a huge clue which could help him getting back his love.",
+            "release_date": "2016-01-01"
+        }
+    ]
+}
