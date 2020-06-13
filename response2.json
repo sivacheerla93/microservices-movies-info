@@ -1,26 +1,59 @@
 {
-    "page": 1,
-    "total_results": 1,
-    "total_pages": 1,
-    "results": [
+    "adult": false,
+    "backdrop_path": "/4oEMOYeQ5jY9rEN85Z9VF6TXYzb.jpg",
+    "belongs_to_collection": null,
+    "budget": 14000000,
+    "genres": [
         {
-            "popularity": 1.978,
-            "vote_count": 8,
-            "video": false,
-            "poster_path": "\/buQQUkoBTjt3nJftJLh8WqQ5cfX.jpg",
-            "id": 376998,
-            "adult": false,
-            "backdrop_path": null,
-            "original_language": "te",
-            "original_title": "నేను శైలజ",
-            "genre_ids": [
-                35,
-                10749
-            ],
-            "title": "Nenu..Shailaja",
-            "vote_average": 5.1,
-            "overview": "Hari (Ram), a DJ in Vizag, proposes to many girls none of them accept his love. One day he sees a beautiful girl Sailaja (Keerthi Suresh) and also impresses her but doesn't propose to her fearing that he would be rejected. Hari spends some good times with Sailaja and right when he proposes his love, she rejects him point blank. An upset Ravi continues with his life and as time passes by, he gets a huge clue which could help him getting back his love.",
-            "release_date": "2016-01-01"
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
         }
-    ]
+    ],
+    "homepage": "",
+    "id": 628241,
+    "imdb_id": "tt9537292",
+    "original_language": "te",
+    "original_title": "అల వైకుంఠపురములో",
+    "overview": "Fate plays a vital role in connecting the life of Bantu, a son who seeks validation from his cold-hearted father with the life of Raj, whose millionaire father wishes that he was more assertive.",
+    "popularity": 5.219,
+    "poster_path": "/48DIQOSEgpoWUFBrmHW2En6aNZQ.jpg",
+    "production_companies": [
+        {
+            "id": 38582,
+            "logo_path": "/raGURQPCh7EvoBe9XHkOuw6v2o1.png",
+            "name": "Geetha Arts",
+            "origin_country": "IN"
+        },
+        {
+            "id": 69898,
+            "logo_path": "/bvPo07eG1gz3r6OCuscRvDmTi20.png",
+            "name": "Haarika & Hassine Creations",
+            "origin_country": "IN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "2020-01-12",
+    "revenue": 28859072,
+    "runtime": 165,
+    "spoken_languages": [
+        {
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ala Vaikunthapurramuloo",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 24
 }
