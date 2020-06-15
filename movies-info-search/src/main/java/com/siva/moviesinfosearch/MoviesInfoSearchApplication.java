@@ -15,7 +15,7 @@ public class MoviesInfoSearchApplication {
 		SpringApplication.run(MoviesInfoSearchApplication.class, args);
 	}
 
-	//@LoadBalanced
+	// @LoadBalanced
 	@Bean
 	public RestTemplate restTemplate() {
 		return new RestTemplate();
