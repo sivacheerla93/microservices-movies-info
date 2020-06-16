@@ -1,4 +1,4 @@
-package com.siva.moviesinfodetails.models;
+package com.siva.moviesinfomain.models;
 
 import java.util.List;
 
